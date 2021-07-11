@@ -1,0 +1,64 @@
+{
+  "timeElapsed": -51,
+  "ip": "127.0.0.1",
+  "lang": "en",
+  "test": "50-IPIP-NEO-PI-R",
+  "totalQuestions": 50,
+  "answers": [
+    {
+      "domain": "A",
+      "facet": "1",
+      "score": "3"
+    },
+    {
+      "domain": "A",
+      "facet": "1",
+      "score": "3"
+    },
+    {
+      "domain": "E",
+      "facet": "1",
+      "score": "3"
+    },
+    {
+      "domain": "E",
+      "facet": "2",
+      "score": "3"
+    }
+  ],
+  "data": {
+    "A": {
+      "average":3,
+      "score": 6,
+      "count": 2,
+      "percentile": ["22", "31"],
+      "result": "neutral",
+      "facet": {
+        "1": {
+          "score": 6,
+          "count": 2,
+          "result": "neutral"
+        }
+      }
+    },
+    "E": {
+      "average":3,
+      "score": 6,
+      "count": 2,
+      "result": "neutral",
+      "percentile":["35", "48"],
+      "facet": {
+        "1": {
+          "score": 3,
+          "count": 1,
+          "result": "neutral"
+        },
+        "2": {
+          "score": 3,
+          "count": 1,
+          "result": "neutral"
+        }
+      }
+    }
+  }
+}

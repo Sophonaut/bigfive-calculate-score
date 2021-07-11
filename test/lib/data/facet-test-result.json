@@ -1,8 +1,10 @@
 {
   "A": {
     "score": 6,
+    "average": 3,
     "count": 2,
     "result": "neutral",
+    "percentile":["22", "31"],
     "facet": {
       "1": {
         "score": 6,
@@ -13,8 +15,10 @@
   },
   "E": {
     "score": 6,
+    "average":3,
     "count": 2,
     "result": "neutral",
+    "percentile": ["35","48"],
     "facet": {
       "1": {
         "score": 3,
@@ -29,3 +33,4 @@
     }
   }
 }
+

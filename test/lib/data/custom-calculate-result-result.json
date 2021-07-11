@@ -1,32 +1,57 @@
 {
-  "O": {
-    "score": 33,
+  "A": {
+   "average": 3,
     "count": 10,
-    "result": "høy",
-    "facet": {}
-  },
-  "N": {
-    "score": 21,
-    "count": 10,
-    "result": "lav",
-    "facet": {}
-  },
-  "E": {
-    "score": 31,
-    "count": 10,
-    "result": "høy",
-    "facet": {}
+    "facet": {},
+   "percentile": [
+     "22",
+     "31"
+   ],
+    "result": "nøytral",
+    "score": 30
   },
   "C": {
-    "score": 31,
+   "average": 3.1,
     "count": 10,
+    "facet": {},
+   "percentile": [
+     "39",
+     "49"
+   ],
     "result": "høy",
-    "facet": {}
+    "score": 31
   },
-  "A": {
-    "score": 30,
+  "E": {
+   "average": 3.1,
     "count": 10,
-    "result": "nøytral",
-    "facet": {}
+    "facet": {},
+   "percentile": [
+     "49",
+     "60"
+   ],
+    "result": "høy",
+    "score": 31
+  },
+  "N": {
+   "average": 2.1,
+    "count": 10,
+    "facet": {},
+   "percentile": [
+     "7",
+     "8"
+   ],
+    "result": "lav",
+    "score": 21
+  },
+  "O": {
+   "average": 3.3,
+    "count": 10,
+    "facet": {},
+   "percentile": [
+     "42",
+     "52"
+   ],
+    "result": "høy",
+    "score": 33
   }
 }
